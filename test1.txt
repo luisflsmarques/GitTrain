@@ -1,3 +1,4 @@
 o meu file de teste
 test file 1
 with change
+more changes on 1
